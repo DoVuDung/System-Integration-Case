@@ -1,0 +1,72 @@
+c:\users\kunpc\documents\visual studio 2013\Projects\HRWebApp\HRWebApp\bin\HRWebApp.dll.config
+c:\users\kunpc\documents\visual studio 2013\Projects\HRWebApp\HRWebApp\bin\HRWebApp.dll
+c:\users\kunpc\documents\visual studio 2013\Projects\HRWebApp\HRWebApp\bin\HRWebApp.pdb
+c:\users\kunpc\documents\visual studio 2013\Projects\HRWebApp\HRWebApp\bin\System.Web.Helpers.dll
+c:\users\kunpc\documents\visual studio 2013\Projects\HRWebApp\HRWebApp\bin\System.Web.Mvc.dll
+c:\users\kunpc\documents\visual studio 2013\Projects\HRWebApp\HRWebApp\bin\System.Web.Razor.dll
+c:\users\kunpc\documents\visual studio 2013\Projects\HRWebApp\HRWebApp\bin\System.Web.Webpages.Deployment.dll
+c:\users\kunpc\documents\visual studio 2013\Projects\HRWebApp\HRWebApp\bin\System.Web.Webpages.dll
+c:\users\kunpc\documents\visual studio 2013\Projects\HRWebApp\HRWebApp\bin\System.Web.Webpages.Razor.dll
+c:\users\kunpc\documents\visual studio 2013\Projects\HRWebApp\HRWebApp\bin\System.Web.Razor.xml
+c:\users\kunpc\documents\visual studio 2013\Projects\HRWebApp\HRWebApp\bin\System.Web.Webpages.xml
+c:\users\kunpc\documents\visual studio 2013\Projects\HRWebApp\HRWebApp\bin\System.Web.Webpages.Deployment.xml
+c:\users\kunpc\documents\visual studio 2013\Projects\HRWebApp\HRWebApp\bin\System.Web.Webpages.Razor.xml
+c:\users\kunpc\documents\visual studio 2013\Projects\HRWebApp\HRWebApp\bin\System.Web.Helpers.xml
+c:\users\kunpc\documents\visual studio 2013\Projects\HRWebApp\HRWebApp\bin\System.Web.Mvc.xml
+c:\users\kunpc\documents\visual studio 2013\Projects\HRWebApp\HRWebApp\obj\Debug\HRWebApp.dll
+c:\users\kunpc\documents\visual studio 2013\Projects\HRWebApp\HRWebApp\obj\Debug\HRWebApp.pdb
+c:\users\kunpc\documents\visual studio 2013\Projects\HRWebApp\HRWebApp\obj\Debug\HRWebApp.csprojResolveAssemblyReference.cache
+c:\users\kunpc\documents\visual studio 2013\Projects\HRWebApp\HRWebApp\bin\EntityFramework.dll
+c:\users\kunpc\documents\visual studio 2013\Projects\HRWebApp\HRWebApp\bin\EntityFramework.SqlServer.dll
+c:\users\kunpc\documents\visual studio 2013\Projects\HRWebApp\HRWebApp\bin\EntityFramework.xml
+c:\users\kunpc\documents\visual studio 2013\Projects\HRWebApp\HRWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Andy\Desktop\5 - System Integration Case Study-20210720T061731Z-001\5 - System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\HRWebApp.dll.config
+C:\Users\Andy\Desktop\5 - System Integration Case Study-20210720T061731Z-001\5 - System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\HRWebApp.dll
+C:\Users\Andy\Desktop\5 - System Integration Case Study-20210720T061731Z-001\5 - System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\HRWebApp.pdb
+C:\Users\Andy\Desktop\5 - System Integration Case Study-20210720T061731Z-001\5 - System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\EntityFramework.dll
+C:\Users\Andy\Desktop\5 - System Integration Case Study-20210720T061731Z-001\5 - System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Andy\Desktop\5 - System Integration Case Study-20210720T061731Z-001\5 - System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andy\Desktop\5 - System Integration Case Study-20210720T061731Z-001\5 - System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\System.Web.Helpers.dll
+C:\Users\Andy\Desktop\5 - System Integration Case Study-20210720T061731Z-001\5 - System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\System.Web.Mvc.dll
+C:\Users\Andy\Desktop\5 - System Integration Case Study-20210720T061731Z-001\5 - System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\System.Web.Razor.dll
+C:\Users\Andy\Desktop\5 - System Integration Case Study-20210720T061731Z-001\5 - System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Andy\Desktop\5 - System Integration Case Study-20210720T061731Z-001\5 - System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\System.Web.Webpages.dll
+C:\Users\Andy\Desktop\5 - System Integration Case Study-20210720T061731Z-001\5 - System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Andy\Desktop\5 - System Integration Case Study-20210720T061731Z-001\5 - System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\EntityFramework.xml
+C:\Users\Andy\Desktop\5 - System Integration Case Study-20210720T061731Z-001\5 - System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Andy\Desktop\5 - System Integration Case Study-20210720T061731Z-001\5 - System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\System.Web.Razor.xml
+C:\Users\Andy\Desktop\5 - System Integration Case Study-20210720T061731Z-001\5 - System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\System.Web.Webpages.xml
+C:\Users\Andy\Desktop\5 - System Integration Case Study-20210720T061731Z-001\5 - System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Andy\Desktop\5 - System Integration Case Study-20210720T061731Z-001\5 - System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Andy\Desktop\5 - System Integration Case Study-20210720T061731Z-001\5 - System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\System.Web.Helpers.xml
+C:\Users\Andy\Desktop\5 - System Integration Case Study-20210720T061731Z-001\5 - System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\System.Web.Mvc.xml
+C:\Users\Andy\Desktop\5 - System Integration Case Study-20210720T061731Z-001\5 - System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\obj\Debug\HRWebApp.csproj.AssemblyReference.cache
+C:\Users\Andy\Desktop\5 - System Integration Case Study-20210720T061731Z-001\5 - System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\obj\Debug\HRWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Desktop\5 - System Integration Case Study-20210720T061731Z-001\5 - System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\obj\Debug\HRWebApp.csproj.CopyComplete
+C:\Users\Andy\Desktop\5 - System Integration Case Study-20210720T061731Z-001\5 - System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\obj\Debug\HRWebApp.dll
+C:\Users\Andy\Desktop\5 - System Integration Case Study-20210720T061731Z-001\5 - System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\obj\Debug\HRWebApp.pdb
+C:\Users\Andy\Desktop\System Integration Case\System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\HRWebApp.dll.config
+C:\Users\Andy\Desktop\System Integration Case\System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\HRWebApp.dll
+C:\Users\Andy\Desktop\System Integration Case\System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\HRWebApp.pdb
+C:\Users\Andy\Desktop\System Integration Case\System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\EntityFramework.dll
+C:\Users\Andy\Desktop\System Integration Case\System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Andy\Desktop\System Integration Case\System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andy\Desktop\System Integration Case\System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\System.Web.Helpers.dll
+C:\Users\Andy\Desktop\System Integration Case\System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\System.Web.Mvc.dll
+C:\Users\Andy\Desktop\System Integration Case\System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\System.Web.Razor.dll
+C:\Users\Andy\Desktop\System Integration Case\System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Andy\Desktop\System Integration Case\System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\System.Web.Webpages.dll
+C:\Users\Andy\Desktop\System Integration Case\System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Andy\Desktop\System Integration Case\System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\EntityFramework.xml
+C:\Users\Andy\Desktop\System Integration Case\System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Andy\Desktop\System Integration Case\System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\System.Web.Razor.xml
+C:\Users\Andy\Desktop\System Integration Case\System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\System.Web.Webpages.xml
+C:\Users\Andy\Desktop\System Integration Case\System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Andy\Desktop\System Integration Case\System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Andy\Desktop\System Integration Case\System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\System.Web.Helpers.xml
+C:\Users\Andy\Desktop\System Integration Case\System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\bin\System.Web.Mvc.xml
+C:\Users\Andy\Desktop\System Integration Case\System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\obj\Debug\HRWebApp.csproj.AssemblyReference.cache
+C:\Users\Andy\Desktop\System Integration Case\System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\obj\Debug\HRWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Desktop\System Integration Case\System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\obj\Debug\HRWebApp.csproj.CopyComplete
+C:\Users\Andy\Desktop\System Integration Case\System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\obj\Debug\HRWebApp.dll
+C:\Users\Andy\Desktop\System Integration Case\System Integration Case Study\HRWebApp\HRWebApp\HRWebApp\obj\Debug\HRWebApp.pdb
